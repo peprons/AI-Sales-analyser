@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Unit_Price,Total_Sales
+2023-01-15,Laptop,Electronics,5,999.99,4999.95
+2023-01-20,Smartphone,Electronics,10,599.99,5999.90
+2023-02-05,Headphones,Accessories,15,89.99,1349.85
+2023-02-15,Tablet,Electronics,8,449.99,3599.92
+2023-03-01,Phone Case,Accessories,25,19.99,499.75
+2023-03-10,Smart Watch,Electronics,12,299.99,3599.88
+2023-04-05,Charger,Accessories,30,29.99,899.70
+2023-04-20,Speaker,Electronics,7,199.99,1399.93
+2023-05-01,Screen Guard,Accessories,40,9.99,399.60
+2023-05-15,Camera,Electronics,6,799.99,4799.94
