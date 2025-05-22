@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import pandasai as pai
 from pandasai.llm import LLM
 import pandas as pd
-from pandasai_openai import OpenAI
+from pandasai.llm.openai import OpenAI # Changed for PandasAI v2.x compatibility
 from pandasai import SmartDataframe
 
 
